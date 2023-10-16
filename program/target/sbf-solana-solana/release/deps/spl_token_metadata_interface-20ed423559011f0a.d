@@ -1,0 +1,10 @@
+/home/codigo/nftAlpha/program/target/sbf-solana-solana/release/deps/spl_token_metadata_interface-20ed423559011f0a.so: /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/lib.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/error.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/instruction.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/state.rs
+
+/home/codigo/nftAlpha/program/target/sbf-solana-solana/release/deps/libspl_token_metadata_interface-20ed423559011f0a.rlib: /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/lib.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/error.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/instruction.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/state.rs
+
+/home/codigo/nftAlpha/program/target/sbf-solana-solana/release/deps/spl_token_metadata_interface-20ed423559011f0a.d: /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/lib.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/error.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/instruction.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/state.rs
+
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/lib.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/error.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/instruction.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/state.rs:
