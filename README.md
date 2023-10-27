@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NFT Contract README
 
 ## Overview
@@ -453,3 +454,6 @@ Users can interact with the NFT contract by:
 - Transferring NFTs: Users can transfer NFT ownership by calling the transfer function.
 
 
+=======
+# Solana-Bootcamp-Final-Project
+>>>>>>> 8701720ffa3095351b42d90088e491afb01a2da8
