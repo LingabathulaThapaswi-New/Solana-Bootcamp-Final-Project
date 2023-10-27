@@ -1,5 +1,5 @@
 # Solana-Bootcamp-Final-Project
-//>>>>>>> 8701720ffa3095351b42d90088e491afb01a2da8
+>>>>>>> 8701720ffa3095351b42d90088e491afb01a2da8
 # NFT Contract README
 
 ## Overview
